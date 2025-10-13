@@ -1,0 +1,15 @@
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #000; /* Creamos un borde negro de 1 píxel */
+    padding: 8px; /* Espacio dentro de cuadro para el texto */
+    text-align: left; /* Aliniamos el texto a la izquierda */
+}
+
+th {
+    background-color: #f2f2f2; /* Color de fondo para las cabeceras, opcional */
+}
